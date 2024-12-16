@@ -30,15 +30,6 @@
 
 *This graph shows your contribution activity over time. Consider it a visual timeline of your coding journey in 2024.*
 
-### 🏓 Animated Contribution Snake
-This is a fun, animated representation of your GitHub contributions over time.
-
-![GitHub Snake Light](https://raw.githubusercontent.com/Shalomd6298/Shalomd6298/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Shalomd6298/Shalomd6298/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-*(Note: You’ll need to generate and host the `github-contribution-grid-snake.svg` files. Instructions can be found at [Platane’s repository](https://github.com/platane/snk).)*
-
----
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
