@@ -56,7 +56,7 @@
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalom-daniel-72198a150/)
-[![Stack Overflow (https://stackoverflow.com/users/11612515/sd4)]
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11612515/sd4)
 
 ### Thank you, Come again!
 
