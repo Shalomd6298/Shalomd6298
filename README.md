@@ -1,85 +1,32 @@
-import React from 'react';
+# 👋 Welcome to My GitHub Profile
 
-const GitHubProfileReadme = () => {
-  return (
-    <div className="p-4 max-w-4xl mx-auto">
-      <h1 className="text-3xl font-bold mb-4">👋 Hello, I'm Shalom!</h1>
-      
-      <section className="mb-6">
-        <h2 className="text-2xl font-semibold mb-2">🚀 About Me</h2>
-        <p className="text-lg">
-          A passionate developer dedicated to creating innovative solutions and 
-          continuously learning new technologies.
-        </p>
-      </section>
+## 🚀 About Me
+[Your brief introduction goes here]
 
-      <section className="mb-6">
-        <h2 className="text-2xl font-semibold mb-2">📊 GitHub Statistics</h2>
-        <div className="flex flex-wrap gap-4">
-          {/* GitHub Stats Badges */}
-          <img 
-            src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" 
-            alt="GitHub Stats" 
-            className="max-w-md"
-          />
-          <img 
-            src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" 
-            alt="GitHub Streak" 
-            className="max-w-md"
-          />
-        </div>
-      </section>
+## 📊 GitHub Stats
 
-      <section className="mb-6">
-        <h2 className="text-2xl font-semibold mb-2">🔧 Technologies & Tools</h2>
-        <div className="flex flex-wrap gap-2">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-          {/* Add more technology badges */}
-        </div>
-      </section>
+![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
 
-      <section className="mb-6">
-        <h2 className="text-2xl font-semibold mb-2">📈 Coding Metrics</h2>
-        <div className="flex flex-wrap gap-4">
-          {/* Wakatime Coding Stats */}
-          <img 
-            src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical" 
-            alt="Wakatime Stats" 
-            className="max-w-md"
-          />
-          
-          {/* Most Used Languages */}
-          <img 
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" 
-            alt="Top Languages" 
-            className="max-w-md"
-          />
-        </div>
-      </section>
+![GitHub Metrics](https://metrics.lecoq.io/YOURUSERNAME?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0)
 
-      <section className="mb-6">
-        <h2 className="text-2xl font-semibold mb-2">🌐 Visitor Counter</h2>
-        <img 
-          src="https://profile-counter.glitch.me/yourusername/count.svg" 
-          alt="Visitor Count" 
-        />
-      </section>
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-      <section>
-        <h2 className="text-2xl font-semibold mb-2">📫 Connect with Me</h2>
-        <div className="flex gap-4">
-          <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-          </a>
-          <a href="https://twitter.com/yourusername" target="_blank" rel="noopener noreferrer">
-            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-          </a>
-        </div>
-      </section>
-    </div>
-  );
-};
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical)
 
-export default GitHubProfileReadme;
+### 💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+
+## 🛠️ Technologies & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+<!-- Add more technology badges as needed -->
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+
+## �Recent Activity
+<!-- GITHUB_ACTIVITY_WORKFLOW -->
