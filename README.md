@@ -5,18 +5,18 @@
 
 ## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Shalomd6298&color=blue)
 
-![GitHub Metrics](https://metrics.lecoq.io/YOURUSERNAME?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0)
+![GitHub Metrics](https://metrics.lecoq.io/Shalomd6298?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0)
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalomd6298&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ### 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shalomd6298&theme=radical)
 
 ### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalomd6298&layout=compact&theme=radical)
 
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
