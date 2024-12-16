@@ -26,7 +26,7 @@
 ## 📈 Additional Activity & Graphs
 
 ### 📊 Contribution Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomd62980&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomd6298&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 *This graph shows your contribution activity over time. Consider it a visual timeline of your coding journey in 2024.*
 
