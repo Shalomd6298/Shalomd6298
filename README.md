@@ -10,8 +10,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shalomd6298&color=blue)
 
-![GitHub Metrics](https://metrics.lecoq.io/Shalomd6298?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0)
-
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalomd6298&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
