@@ -1,24 +1,19 @@
 ### Hi! My name is Shalom Daniel
 
-## 🚀 About Me
 [Your brief introduction goes here]
 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shalomd6298&color=blue)
 
-### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalomd6298&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shalomd6298&theme=radical)
 
 ### 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalomd6298&layout=compact&theme=radical)
 
 ---
-
-## 📈 Additional Activity & Graphs
 
 ### 📊 Contribution Activity Graph
 [![Shalom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomd6298&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
