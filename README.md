@@ -1,4 +1,4 @@
-## Hi! My name is Shalom Daniel
+### Hi! My name is Shalom Daniel
 
 ## 🚀 About Me
 [Your brief introduction goes here]
@@ -31,4 +31,4 @@
 ## �Recent Activity
 <!-- GITHUB_ACTIVITY_WORKFLOW -->
 
-## Thankyou, Come again! 
+### Thankyou, Come again! 
