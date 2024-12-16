@@ -5,9 +5,6 @@
 
 ---
 
-## 📊 GitHub Stats (From 2024)
-*Note: The following stats are intended to highlight progress and activities starting in 2024.*
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Shalomd6298&color=blue)
 
 ### 📈 GitHub Stats
@@ -24,7 +21,7 @@
 ## 📈 Additional Activity & Graphs
 
 ### 📊 Contribution Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomd6298&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shalom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomd6298&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 *This graph shows your contribution activity over time. Consider it a visual timeline of your coding journey in 2024.*
 
@@ -40,8 +37,7 @@
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalom-daniel-72198a150/)
 
 ---
 
