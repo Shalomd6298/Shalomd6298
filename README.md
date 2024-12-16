@@ -9,7 +9,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shalomd6298&theme=radical)
 
 ### 💻 Most Used Languages
-[![Shalom's github activity graph](https://github-readme-stats.vercel.app/api/top-langs/?
+[![Shalom's github activity graph](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalomd6298&layout=compact&theme=radical)
 
 [![Shalom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomd6298&theme=react-dark)]
 
