@@ -1,6 +1,6 @@
-### Hi! My name is Shalom Daniel
+<div align="center">
 
-[Your brief introduction goes here]
+### Hi! My name is Shalom Daniel
 
 ---
 
@@ -18,7 +18,6 @@
 ### 📊 Contribution Activity Graph
 [![Shalom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomd6298&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
 ## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -35,3 +34,5 @@
 ---
 
 ### Thank you, Come again!
+
+</div>
