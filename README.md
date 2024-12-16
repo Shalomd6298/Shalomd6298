@@ -1,8 +1,6 @@
 <div align="center">
 
-### Hi! My name is Shalom Daniel
-
----
+### Hi! My name is Shalom Daniel and welcome to my GitHub. 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shalomd6298&color=blue)
 
@@ -12,8 +10,6 @@
 
 ### 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalomd6298&layout=compact&theme=radical)
-
----
 
 ### 📊 Contribution Activity Graph
 [![Shalom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomd6298&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -26,12 +22,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
----
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalom-daniel-72198a150/)
-
----
 
 ### Thank you, Come again!
 
