@@ -3,6 +3,7 @@
 ### Hi! My name is Shalom Daniel and welcome to my GitHub. 
 #### https://www.shalomdaniel.com/
 
+##
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shalomd6298&color=blue)
 
