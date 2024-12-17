@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hi! My name is Shalom Daniel and welcome to my GitHub. 
-#### https://www.shalomdaniel.com/
+#### View my website: https://www.shalomdaniel.com/
 
 ##
 
