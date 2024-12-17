@@ -10,7 +10,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalomd6298&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true)
 
 
-![GitHub Contributions](https://graph.githubbadge.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.svg)
+![GitHub Contributions](https://graph.githubbadge.com/Shalomd6298/Shalomd6298.svg)
 
 ![Shalom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomd6298&theme=react-dark)
 
