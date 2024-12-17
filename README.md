@@ -11,7 +11,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shalomd6298&show_icons=true&theme=radical)
 
-![Shalom's github activity graph](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalomd6298&layout=compact&theme=radical)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Shalomd6298&theme=radical)
 
 ![Shalom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomd6298&theme=react-dark)
 
