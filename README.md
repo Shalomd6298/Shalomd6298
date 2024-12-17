@@ -13,12 +13,8 @@
 
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shalomd6298&theme=2077)
 
-![Shalom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomd6298&theme=react-dark)
+![Shalom's github daily activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomd6298&theme=react-dark)
 
-### Current Timezone
-**Location:** Boston, MA  
-**Timezone:** Eastern Time (ET)  
-![Timezone Badge](https://img.shields.io/badge/Timezone-ET-blue?style=flat-square)
 
 ---
 
