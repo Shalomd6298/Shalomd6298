@@ -9,9 +9,8 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalomd6298&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shalomd6298&show_icons=true&theme=radical)
 
-![GitHub Metrics](https://metrics.lecoq.io/Shalomd6298?template=classic)
+![GitHub Contributions](https://graph.githubbadge.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME.svg)
 
 ![Shalom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomd6298&theme=react-dark)
 
