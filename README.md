@@ -9,7 +9,7 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalomd6298&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shalomd6298&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shalomd6298&theme=radical)
 
 ![Shalom's github activity graph](https://github-readme-stats.vercel.app/api/top-langs/?username=Shalomd6298&layout=compact&theme=radical)
 
