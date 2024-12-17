@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Hi! My name is Shalom Daniel and welcome to my GitHub. 
-#### Portfolio -> https://www.shalomdaniel.com/
+#### https://www.shalomdaniel.com/
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shalomd6298&color=blue)
 
