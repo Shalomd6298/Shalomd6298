@@ -11,7 +11,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shalomd6298&show_icons=true&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shalomd6298&color=blueviolet)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shalomd6298&theme=radical)
 
 ![Shalom's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomd6298&theme=react-dark)
 
