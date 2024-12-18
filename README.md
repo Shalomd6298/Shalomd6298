@@ -9,6 +9,8 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shalomd6298&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shalomd6298&theme=dark&background=000000&border=DD6387&stroke=DD6387&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC)
+
 ![GitHub top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shalomd6298&theme=2077)
 
 ![GitHub top languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shalomd6298&theme=2077)
@@ -17,7 +19,6 @@
 
 ![Shalom's github daily activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomd6298&theme=react-dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shalomd6298)
 
 ---
 
