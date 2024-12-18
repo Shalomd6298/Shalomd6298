@@ -17,6 +17,7 @@
 
 ![Shalom's github daily activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shalomd6298&theme=react-dark)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shalomd6298)
 
 ---
 
